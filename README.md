@@ -38,7 +38,8 @@ I've joined course diploma in computer science as after learning front end and t
 <a href="https://www.github.com/Sayeed-cyber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/Jefreonsyed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></
 <a href="https://www.linkedin.com/in/Sayeed khan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges<b>My GitHub Stats</b><a
+### Badges
+<b>My GitHub Stats</b><a
 href="http://www.github.com/Sayeed-cyber"><img src="https://github-readme-stats.vercel.app/api?username=Sayeed-cyber&show_icons=true&hide=&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sayeed-cyber's GitHub stats" /></a><a
 href="http://www.github.com/Sayeed-cyber"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Sayeed-cyber&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
