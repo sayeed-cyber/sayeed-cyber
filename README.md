@@ -1,6 +1,8 @@
-<img src="https://images.app.goo.gl/5ev8B7Q6Fbx511D77"
-     
-     style="float: left; margin-right: 10px;" /> 
+<img src="/assets/img/MarineGEO_logo.png" 
+alt="MarineGEO circle logo"
+style="height: 100px; width:100px;"/>
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayeed khan
 ===================================================================================================================================
 
