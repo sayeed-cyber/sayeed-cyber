@@ -1,5 +1,3 @@
-![](images.jpeg)
-     
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayeed khan
 ===================================================================================================================================
 
@@ -7,7 +5,7 @@ Final year of Artificial intelligence & machine learning ,deep learning , data s
 --------------------------------------------------------------------------------------
 
 I've joined course diploma in computer science as after learning front end and technologies like html ,css ,java script and some languages like java ,python, sql ...i found that i'm interested in AI & ML 🙃
-
+![](images.jpeg)
 *   🌍  I'm based in Bijapur ,karnataka ,India
 *   ✉️  You can contact me at [Sayeedpkhan2004@gmail.com](mailto:Sayeedpkhan2004@gmail.com)
 *   🧠  I'm learning Open cv , tencerflow ,pytorch
